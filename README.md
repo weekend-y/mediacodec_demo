@@ -1,0 +1,2 @@
+# mediacodec_demo
+Android平台上使用mediacodec的相关demo
