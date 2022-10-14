@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "MediaCodec_DecodeMP4"
